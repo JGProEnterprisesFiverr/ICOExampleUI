@@ -1,0 +1,20 @@
+.hero {
+  padding: 15px;
+}
+
+.box {
+  padding: 20px;
+  margin: auto;
+}
+
+#topBox {
+  margin-bottom: 10px;
+}
+
+#bottomBox {
+  margin-top: 10px;
+}
+
+h1, h2, .subtitle, .title, .hero.is-info .subtitle, .hero.is-info .title {
+  color: #4a4a4a;
+}
